@@ -1,0 +1,23 @@
+{
+  "name": "Testing-for-fun-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thief8843/Testing-for-fun-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thief8843/Testing-for-fun-/issues"
+  },
+  "homepage": "https://github.com/Thief8843/Testing-for-fun-#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
